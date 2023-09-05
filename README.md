@@ -1,3 +1,3 @@
 # keerthana
-my first repository
+my first repo
 by- keer
